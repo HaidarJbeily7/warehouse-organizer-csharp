@@ -1,0 +1,19 @@
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\bin\Debug\Store Organiser.exe.config
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\bin\Debug\Store Organiser.exe
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\bin\Debug\Store Organiser.pdb
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store Organiser.csprojResolveAssemblyReference.cache
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.Properties.Resources.resources
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store Organiser.csproj.GenerateResource.Cache
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store Organiser.exe
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store Organiser.pdb
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.AllForm.resources
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.MainForm.resources
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.inForm.resources
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.outForm.resources
+c:\users\windows.10\documents\visual studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store Organiser.exe.licenses
+C:\Users\Windows.10\Documents\Visual Studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.AddEditViewallForm.resources
+C:\Users\Windows.10\Documents\Visual Studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.AddEditViewinForm.resources
+C:\Users\Windows.10\Documents\Visual Studio 2013\Projects\Store Organiser\Store Organiser\obj\Debug\Store_Organiser.AddEditViewoutForm.resources
+C:\Users\Windows.10\Desktop\HasanZidan\Store Organiser\Store Organiser\bin\Debug\Store Organiser.exe.config
+C:\Users\Windows.10\Desktop\HasanZidan\Store Organiser\Store Organiser\obj\Debug\Store Organiser.exe
+C:\Users\Windows.10\Desktop\HasanZidan\Store Organiser\Store Organiser\obj\Debug\Store Organiser.pdb
